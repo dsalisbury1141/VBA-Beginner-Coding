@@ -12,7 +12,7 @@ Create a script that will loop through all the stocks for one year and output th
 
 5. I have conditional formatting that will highlight positive change in green and negative change in red.
 
-###The result show the following:
+### The result show the following:
 
 ![imageAlt](https://github.com/dsalisbury1141/VBA-Beginner-Coding/blob/master/%EF%80%AA%EF%80%AAVBAStocks%EF%80%AA%EF%80%AA/DSalisbury%20VBAHomeHW%20Screenshots.PNG)
 
